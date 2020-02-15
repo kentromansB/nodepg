@@ -1,0 +1,31 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bandong-prob1":"node task1.js",
+    "bandong-prob2":"node task2.js",
+    "bandong-prob3":"node task3.js",
+    "bandong-prob4":"node task4.js",
+    "bandong-prob4":"node task4.js",
+    "bandong-prob5":"node task5.js",
+    "bandong-prob6":"node task6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentromansB/nodepg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kentromansB/nodepg/issues"
+  },
+  "homepage": "https://github.com/kentromansB/nodepg#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
